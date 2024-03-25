@@ -266,9 +266,9 @@ export default function Home() {
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-x-2 font-InterRe">
                 <div className="w-[6px] h-[6px] rounded-full  bg-[#4CCD99]" />
-                <h1 className="text-[#A0153E] text-lg font-InterMe">
+                {/* <h1 className="text-[#A0153E] text-lg font-InterMe">
                   Follow Me
-                </h1>
+                </h1> */}
               </div>
 
               <div className="flex gap-x-2">
