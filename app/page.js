@@ -69,7 +69,7 @@ export default function Home() {
                     opacity: 1,
                     transition: { duration: 0.2, delay: 0.4 },
                   }}
-                  className="text-neutral-700 dark:text-[#C0C0C0] max-md:text-xl font-InterMe"
+                  className="text-neutral-700 dark:text-[#A0153E] max-md:text-xl font-InterMe"
                 >
                   Elsarita Njoki Oulie
                 </motion.h1>
@@ -266,7 +266,7 @@ export default function Home() {
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-x-2 font-InterRe">
                 <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
-                <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
+                <h1 className="text-[#A0153E] text-lg font-InterMe">
                   Follow Me
                 </h1>
               </div>
@@ -296,7 +296,7 @@ export default function Home() {
               <p className="text-neutral-500">
                 By{" "}
                 <span className="hover:underline  hover:text-neutral-400 text-neutral-700 dark:text-neutral-300">
-                  Joscript
+                  kooya3
                 </span>
               </p>
             </div>
