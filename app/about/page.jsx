@@ -121,7 +121,7 @@ function page() {
             }}
             className="text-3xl font-InterBo mt-7 my-3 dark:text-white text-neutral-800"
           >
-            My Side Projects
+            My Laurels 🏆
           </motion.h1>
           <motion.p
             initial={{ y: 100, opacity: 0 }}
@@ -132,8 +132,7 @@ function page() {
             }}
             className="text-neutral-700 text-lg my-7 leading-8 font-InterRe dark:text-[#C0C0C0]"
           >
-            I did passion side projects in the weekend, please take a look you
-            will love it (i hope).
+            Licenses and Certifications
           </motion.p>
         </div>
 
@@ -180,7 +179,7 @@ function page() {
                 Let’s work together.
               </h2>
               <p className="text-center mt-3 dark:text-neutral-300 text-[#666D80] text-lg">
-                Creating user experience and visual appealing design
+                Communication and Engagement
               </p>
             </div>
 
@@ -229,12 +228,12 @@ function page() {
           <div className="bg-[#F6F8FA] dark:bg-[#2C2C2C] p-6  mt-4 rounded-md">
             <div className="text-center">
               <span className="text-neutral-700 dark:text-neutral-400">
-                © 2023 Joscript Folio – Jo free Templates
+                © 2024 ElsaRita 
               </span>
               <p className="text-neutral-500">
                 By{" "}
                 <span className="hover:underline  hover:text-neutral-400 text-neutral-700 dark:text-neutral-300">
-                  Joscript
+                  kooya3
                 </span>
               </p>
             </div>
