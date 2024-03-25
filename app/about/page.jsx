@@ -56,7 +56,7 @@ function page() {
             }}
             className="text-neutral-700 text-lg my-7 leading-8 font-InterRe dark:text-[#C0C0C0]"
           >
-          Elsarita Njoki Dulie is a dedicated and organized individual with good collaborative skills. She is seeking a job that will allow her to make the best use of her skills and further develop them. Elsarita has a genuine interest in the transport/logistics industry and considers her strengths to be long-term planning skills and the ability to complete tasks within deadlines. She is a team player who thrives in collaboration with others and contributes to a positive and pleasant working environment. Elsarita also has a strong sense of social responsibility and is involved in the Red Cross. Her outdoor activities include skiing, cycling, sailing, and participating in triathlons.
+          Elsarita Njoki Oulie is a dedicated and organized individual with good collaborative skills. She is seeking a job that will allow her to make the best use of her skills and further develop them. Elsarita has a genuine interest in the transport/logistics industry and considers her strengths to be long-term planning skills and the ability to complete tasks within deadlines. She is a team player who thrives in collaboration with others and contributes to a positive and pleasant working environment. Elsarita also has a strong sense of social responsibility and is involved in the Red Cross. Her outdoor activities include skiing, cycling, sailing, and participating in triathlons.
         
           </motion.p>
         </div>
@@ -97,8 +97,8 @@ function page() {
             }}
             className="text-neutral-700 text-lg my-7 leading-8 font-InterRe dark:text-[#C0C0C0]"
           >
-            Elsarita Njoki Dulie holds a Bachelor's degree in Information Technology from Jomo Kenyatta University of Agriculture and Technology. She has a strong background in software, databases, and networks. With her knowledge in IT, Elsarita stays up-to-date with the latest technologies and industry trends. She actively seeks opportunities to expand her skills and regularly participates in IT conferences and workshops. Her dedication to professional development demonstrates her relentless drive to stay current in the ever-evolving field of technology.
-          </motion.p>
+            I hold a Bachelor's degree in Information Technology from Jomo Kenyatta University of Agriculture and Technology. I have a strong background in software, databases, and networks. With my knowledge in IT, I have stayed up-to-date with the latest technologies and industry trends. I actively seek opportunities to expand my skills and I regularly participate in IT conferences and workshops. My dedication to professional development demonstrates my relentless drive to stay current in the ever-evolving field of technology.
+           </motion.p>
 
           <motion.p
             initial={{ y: 100, opacity: 0 }}
