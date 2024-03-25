@@ -185,7 +185,7 @@ export default function Home() {
                       </div>
                     </div>
                   ))}
-                 </div> */}
+               </div> */}
               </div>
             </div>
           </div>
@@ -193,13 +193,13 @@ export default function Home() {
             <div className="dark:bg-[#2C2C2C] bg-[#F6F8FA] p-6  mt-6 rounded-md">
               <div className="flex items-center gap-x-2 font-InterRe">
                 <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
-                <h1 cla/*  */ssName="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
+                {/* <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
                   Products
-                </h1>
+                </h1> */}
               </div>
 
               <div className="mt-14">
-                <Link href={"/"}>
+                {/* <Link href={"/"}>
                   {projects.map((link) => (
                     <div
                       key={link.subtitle}
@@ -229,7 +229,7 @@ export default function Home() {
                       </div>
                     </div>
                   ))}
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>
@@ -291,7 +291,7 @@ export default function Home() {
           <div className="bg-[#F6F8FA] dark:bg-[#2C2C2C] p-6  mt-4 rounded-md">
             <div className="text-center">
               <span className="text-neutral-700 dark:text-neutral-400">
-                © 2023 Joscript Folio – Jo free Templates
+                © 2024 Elsarita – elrizah@gmail.com
               </span>
               <p className="text-neutral-500">
                 By{" "}
