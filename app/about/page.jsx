@@ -2,9 +2,9 @@
 
 import React from "react";
 import { FiArrowRight, FiCopy } from "react-icons/fi";
-import { AiOutlinePlusCircle, AiOutlineDribbble } from "react-icons/ai";
+import { AiOutlinePlusCircle, AiOutlineDribbble, AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { CiLocationArrow1, CiTwitter, CiInstagram } from "react-icons/ci";
+import { CiLocationArrow1, CiTwitter, CiInstagram, CiAlarmOn } from "react-icons/ci";
 import { BsChevronRight } from "react-icons/bs";
 import Link from "next/link";
 import { motion } from "framer-motion";
@@ -65,7 +65,7 @@ function page() {
             }}
             className="aspect-square object-cover rounded-lg"
             src="/img/img1.png"
-            alt=""
+            alt="forklift"
           />
         </div>
 
@@ -208,12 +208,12 @@ function page() {
                 </a>
                 <a href="https://instagram.com/">
                   <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737] dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1">
-                    <CiInstagram className="text-neutral-500 dark:text-white" />
+                    <CiAlarmOn className="text-neutral-500 dark:text-white" />
                   </div>
                 </a>
                 <a href="https://github.com/">
                   <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737] dark:border-none w-9 h-9 px-2 rounded-full flex justify-center items-center gap-x-1">
-                    <AiOutlineGithub className="text-neutral-500 dark:text-white" />
+                    <AiFillGithub className="text-neutral-500 dark:text-white" />
                   </div>
                 </a>
                 <a href="https://www.linkedin.com/in/elsarita-njoki-oulie-b22b3a291/">

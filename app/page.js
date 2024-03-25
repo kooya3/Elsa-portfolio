@@ -71,7 +71,7 @@ export default function Home() {
                   }}
                   className="text-neutral-700 dark:text-[#C0C0C0] max-md:text-xl font-InterMe"
                 >
-                  Frontend Dev
+                  Elsarita Njoki Oulie
                 </motion.h1>
               </div>
 

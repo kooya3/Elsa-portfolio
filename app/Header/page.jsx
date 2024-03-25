@@ -17,7 +17,6 @@ let links = [
   { icons: <PiHouseSimpleThin />, path: "/" },
   { icons: <PiUserLight />, path: "/about" },
   { icons: <PiLaptopThin />, path: "/project" },
-  { icons: <PiBagSimpleLight />, path: "/product" },
 ];
 
 function Headpage() {
