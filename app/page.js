@@ -139,7 +139,7 @@ export default function Home() {
                 <div className="flex items-center gap-x-2 font-InterRe">
                   <div className="w-[6px] h-[6px] rounded-full  bg-[#4CCD99]" />
                  {/*  <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
-                    Projects
+                    Experienced
                   </h1> */}
                 </div>
 
@@ -193,9 +193,9 @@ export default function Home() {
             <div className="dark:bg-[#2C2C2C] bg-[#F6F8FA] p-6  mt-6 rounded-md">
               <div className="flex items-center gap-x-2 font-InterRe">
                 <div className="w-[6px] h-[6px] rounded-full  bg-[#4CCD99]" />
-                {/* <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
-                  Products
-                </h1> */}
+                <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
+                  Innovative
+                </h1> 
               </div>
 
               <div className="mt-14">
