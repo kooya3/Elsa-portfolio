@@ -61,7 +61,7 @@ export default function Home() {
           <div className=" lg:p-6 p-3">
             <div className="flex justify-between  w-full">
               <div className="flex items-center gap-x-2 font-InterRe">
-                <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
+                <div className="w-[6px] h-[6px] rounded-full  bg-[#4CCD99]" />
                 <motion.h1
                   initial={{ x: 100, opacity: 0 }}
                   animate={{
@@ -137,7 +137,7 @@ export default function Home() {
             <div className="bg-[#F6F8FA] dark:bg-[#2C2C2C] p-6 max-md:p-3 rounded-xl">
               <div className="flex items-center justify-between mt-4">
                 <div className="flex items-center gap-x-2 font-InterRe">
-                  <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
+                  <div className="w-[6px] h-[6px] rounded-full  bg-[#4CCD99]" />
                  {/*  <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
                     Projects
                   </h1> */}
@@ -192,7 +192,7 @@ export default function Home() {
           <div>
             <div className="dark:bg-[#2C2C2C] bg-[#F6F8FA] p-6  mt-6 rounded-md">
               <div className="flex items-center gap-x-2 font-InterRe">
-                <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
+                <div className="w-[6px] h-[6px] rounded-full  bg-[#4CCD99]" />
                 {/* <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
                   Products
                 </h1> */}
@@ -242,7 +242,7 @@ export default function Home() {
                 Let’s work together.
               </h2>
               <p className="text-center mt-3 dark:text-neutral-300 text-[#666D80] text-lg">
-                Creating user experience and visual appealing design
+                Collaboration with exceptional team work
               </p>
             </div>
 
@@ -265,7 +265,7 @@ export default function Home() {
           <div className="bg-[#F6F8FA] p-6 dark:bg-[#2C2C2C]  mt-14 rounded-md">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-x-2 font-InterRe">
-                <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
+                <div className="w-[6px] h-[6px] rounded-full  bg-[#4CCD99]" />
                 <h1 className="text-[#A0153E] text-lg font-InterMe">
                   Follow Me
                 </h1>
