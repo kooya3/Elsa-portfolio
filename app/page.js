@@ -140,7 +140,7 @@ export default function Home() {
                   <div className="w-[6px] h-[6px] rounded-full  bg-[#4CCD99]" />
                  {/*  <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
                     Experienced
-                  </h1> */}
+                  </h1> 
                 </div>
 
                {/*  <div className="border-neutral-300 dark:border-neutral-700 bg-white dark:bg-[#373737] shadow-md border  w-fit h-8 px-2 rounded-md  flex items-center gap-x-1 ">
