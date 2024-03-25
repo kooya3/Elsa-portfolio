@@ -45,7 +45,7 @@ function page() {
 
         <div>
           <h1 className="text-3xl font-InterBo mt-7 my-3 dark:text-white text-neutral-800">
-            It's Me Joscript
+            It's Me Elsarita
           </h1>
           <motion.p
             initial={{ y: 100, opacity: 0 }}
@@ -56,12 +56,8 @@ function page() {
             }}
             className="text-neutral-700 text-lg my-7 leading-8 font-InterRe dark:text-[#C0C0C0]"
           >
-            I'm Joscript, a a software engineeer with over 5 years of
-            experience, currently residing in Abuja, Nigeria. I have a deep
-            passion for crafting purposeful interfaces and products. My main
-            goal is to bridge the divide between people and technology,
-            transforming intricate challenges into meaningful and seamless
-            experiences.
+          Elsarita Njoki Dulie is a dedicated and organized individual with good collaborative skills. She is seeking a job that will allow her to make the best use of her skills and further develop them. Elsarita has a genuine interest in the transport/logistics industry and considers her strengths to be long-term planning skills and the ability to complete tasks within deadlines. She is a team player who thrives in collaboration with others and contributes to a positive and pleasant working environment. Elsarita also has a strong sense of social responsibility and is involved in the Red Cross. Her outdoor activities include skiing, cycling, sailing, and participating in triathlons.
+        
           </motion.p>
         </div>
 
@@ -101,11 +97,7 @@ function page() {
             }}
             className="text-neutral-700 text-lg my-7 leading-8 font-InterRe dark:text-[#C0C0C0]"
           >
-            Joscript holds a bachelor's degree in Software Engineering from a
-            prestigious university in the United States and has a relentless
-            drive for staying up-to-date with the latest technologies and design
-            trends. Actively involved in the design community, Brian regularly
-            participates in diverse design conferences and meetups.
+            Elsarita Njoki Dulie holds a Bachelor's degree in Information Technology from Jomo Kenyatta University of Agriculture and Technology. She has a strong background in software, databases, and networks. With her knowledge in IT, Elsarita stays up-to-date with the latest technologies and industry trends. She actively seeks opportunities to expand her skills and regularly participates in IT conferences and workshops. Her dedication to professional development demonstrates her relentless drive to stay current in the ever-evolving field of technology.
           </motion.p>
 
           <motion.p
@@ -117,12 +109,8 @@ function page() {
             }}
             className="text-neutral-700 text-lg my-7 leading-8 font-InterRe dark:text-[#C0C0C0]"
           >
-            When he's not immersed in design work, he finds solace in playing
-            the guitar and exploring new coffee shops in his local area. Brian
-            firmly believes in maintaining a healthy work-life balance, making
-            sure to take breaks and reenergize his creativity. In his spare
-            time, he also volunteers at a local animal shelter on weekends.
-          </motion.p>
+            When she's not immersed in her work in the IT field, Elsarita finds solace in outdoor activities such as skiing, cycling, sailing, and participating in triathlons. She believes in maintaining a healthy work-life balance and understands the importance of taking breaks and reenergizing her mind and body. In her spare time, Elsarita also volunteers at the Red Cross, contributing to society and helping those in need. Additionally, she enjoys exploring nature and spending time with animals, which aligns with her passion for outdoor activities and her involvement in the Red Cross.
+            </motion.p>
 
           <motion.h1
             initial={{ x: -100, opacity: 0 }}
