@@ -206,17 +206,17 @@ function page() {
                     <CiTwitter className="text-neutral-500 dark:text-white" />
                   </div>
                 </a>
-                <a href="https://instagram.com/example">
+                <a href="https://instagram.com/">
                   <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737] dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1">
                     <CiInstagram className="text-neutral-500 dark:text-white" />
                   </div>
                 </a>
-                <a href="https://dribbble.com/example">
+                <a href="https://github.com/">
                   <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737] dark:border-none w-9 h-9 px-2 rounded-full flex justify-center items-center gap-x-1">
                     <AiOutlineGithub className="text-neutral-500 dark:text-white" />
                   </div>
                 </a>
-                <a href="https://linkedin.com/in/example">
+                <a href="https://www.linkedin.com/in/elsarita-njoki-oulie-b22b3a291/">
                   <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737] dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1">
                     <FaLinkedinIn className="text-neutral-500 dark:text-white" />
                   </div>
