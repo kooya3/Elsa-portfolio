@@ -12,8 +12,8 @@ import { motion } from "framer-motion";
 const projects = [
   {
     img: "/img/wink.png",
-    title: "Upshifts",
-    subtitle: "Web design collections",
+    title: "Cisco Certified Network Associate",
+    subtitle: "(AFRALTI): ID 08653Crede",
   },
   {
     img: "/img/foot.png",
@@ -31,7 +31,7 @@ function page() {
     >
       <div className=" lg:p-6 p-5 ">
         <div className="flex mt-4 items-center gap-x-2 font-InterRe">
-          <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
+          <div className="w-[6px] h-[6px] rounded-full  bg-[#FB6D48]" />
           <h1 className="text-neutral-700  dark:text-[#C0C0C0] text-lg font-InterMe">
             About
           </h1>
@@ -132,7 +132,7 @@ function page() {
 
         <div className="dark:bg-[#2C2C2C] bg-[#F6F8FA] p-4  mt-6 rounded-md">
           <div className="">
-            <Link href={"/"}>
+            <Link href={"https://www.linkedin.com/in/elsarita-njoki-oulie-b22b3a291/"}>
               {projects.map((link) => (
                 <div
                   key={link.subtitle}
@@ -146,7 +146,6 @@ function page() {
                         alt=""
                       />
                     </div>
-
                     <div>
                       <h1 className="text-xl font-InterMe">{link.title}</h1>
                     </div>
@@ -196,7 +195,7 @@ function page() {
           <div className="bg-[#F6F8FA] p-6 dark:bg-[#2C2C2C]  mt-14 rounded-md">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-x-2 font-InterRe">
-                <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
+                <div className="w-[6px] h-[6px] rounded-full  bg-[#FB6D48]" />
                 <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
                   Follow Me
                 </h1>
