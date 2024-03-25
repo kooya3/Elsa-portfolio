@@ -12,8 +12,8 @@ import { motion } from "framer-motion";
 const projects = [
   {
     img: "/img/pizza.png",
-    title: "Goven",
-    subtitle: "framer template",
+    title: "Forklift Certification T1, T4 and +2 skills",
+    subtitle: "Toyota Material Handling NorwayToyota Material Handling Norway",
     icon: <BsChevronRight />,
   },
   {
