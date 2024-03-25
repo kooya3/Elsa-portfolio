@@ -101,7 +101,7 @@ export default function Home() {
                   }}
                   className="  text-lg max-md:text-center  my-3 text-neutral-500 dark:text-neutral-300"
                 >
-                  +47 Norway. <br /> {" "}
+                  +47 Norway. Oslo <br /> {" "}
                 </motion.p>
                 <div className="flex items-center gap-x-2 mt-6">
                   <div className="bg-black dark:bg-[#373737] w-fit shadow-md px-2 rounded-md flex items-center gap-x-2 py-1">
