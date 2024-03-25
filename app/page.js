@@ -69,7 +69,7 @@ export default function Home() {
                     opacity: 1,
                     transition: { duration: 0.2, delay: 0.4 },
                   }}
-                  className="text-neutral-700 dark:text-[#A0153E] max-md:text-xl font-InterMe"
+                  className="text-[#A0153E] max-md:text-xl font-InterMe"
                 >
                   Elsarita Njoki Oulie
                 </motion.h1>
