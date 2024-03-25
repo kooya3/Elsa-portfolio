@@ -11,20 +11,14 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    img: "/img/pizza.png",
-    title: "Forklift Certification T1, T4 and +2 skills",
-    subtitle: "Toyota Material Handling NorwayToyota Material Handling Norway",
-    icon: <BsChevronRight />,
-  },
-  {
     img: "/img/wink.png",
     title: "Upshifts",
     subtitle: "Web design collections",
   },
   {
     img: "/img/foot.png",
-    title: "Subtle Folio",
-    subtitle: "framer template",
+    title: "Forklift Certification",
+    subtitle: "Toyota Material Handling Norway T1, T4",
   },
 ];
 
