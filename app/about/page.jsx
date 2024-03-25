@@ -109,7 +109,7 @@ function page() {
             }}
             className="text-neutral-700 text-lg my-7 leading-8 font-InterRe dark:text-[#C0C0C0]"
           >
-            When I'm not immersed in my work in the IT field, I find solace in outdoor activities such as skiing, cycling, sailing, and participating in triathlons. She believes in maintaining a healthy work-life balance and understands the importance of taking breaks and reenergizing her mind and body. In her spare time, Elsarita also volunteers at the Red Cross, contributing to society and helping those in need. Additionally, she enjoys exploring nature and spending time with animals, which aligns with her passion for outdoor activities and her involvement in the Red Cross.
+            When I'm not immersed in my work in the IT field, I find solace in outdoor activities such as skiing, cycling, sailing, and participating in triathlons. I believe in maintaining a healthy work-life balance and understands the importance of taking breaks and reenergizing her mind and body. In her spare time, Elsarita also volunteers at the Red Cross, contributing to society and helping those in need. Additionally, she enjoys exploring nature and spending time with animals, which aligns with her passion for outdoor activities and her involvement in the Red Cross.
             </motion.p>
 
           <motion.h1
