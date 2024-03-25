@@ -254,9 +254,9 @@ export default function Home() {
                 </div>
                 <div className="border-neutral-300 shadow-md border dark:border-neutral-700  w-fit h-8 px-2 rounded-md flex items-center gap-x-2 ">
                   <FiCopy className="" />
-                  <span className="text-neutral-700  dark:text-white font-semibold">
-                    Copy Email
-                  </span>
+                  <span className="text-neutral-700 dark:text-white font-semibold">
+                      <a href="mailto:elrizah@gmail.com">Copy Email</a>
+                    </span>
                 </div>
               </div>
             </div>
