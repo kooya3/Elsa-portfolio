@@ -125,7 +125,7 @@ export default function Home() {
                     filter: "blur(0px)",
                     transition: { duration: 0.4, delay: 0.5 },
                   }}
-                  className="w-32 h-32 flex object-cover   rounded-full "
+                  className="w-32 h-32 flex object-cover rounded-full bg-transparent "
                   src="/img/img4.png"
                   alt=""
                 />
