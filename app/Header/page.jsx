@@ -89,7 +89,7 @@ function Headpage() {
             <a href="mailto:your-email@example.com">
               <div className="bg-black dark:bg-[#373737]  px-2 rounded-md flex items-center gap-x-2 py-1">
                 <AiOutlinePlusCircle className="text-white tex-3" />
-                <span className="text-white  font-semibold">Hire Me</span>
+                <span className="text-white  font-semibold">Email</span>
               </div>
             </a>
           </div>

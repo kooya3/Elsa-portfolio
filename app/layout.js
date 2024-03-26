@@ -4,7 +4,7 @@ import Theming from "@/theme/Theming";
 
 export const metadata = {
   title: "Elsa Portfolio",
-  description: "Personal portfolio",
+  description: "Personal Portfolio",
 };
 
 export default function RootLayout({ children }) {
