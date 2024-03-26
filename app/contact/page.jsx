@@ -62,7 +62,8 @@ function page() {
                 ></textarea>
               </div>
 
-              <button className="w-full p-3 rounded-lg text-white dark:bg-neutral-700 bg-black dark:hover:bg-neutral-800 transition-all ease-in-out duration-500 mt-4 font-InterBo" onClick={() => window.open("mailto:elrizah@gmail.com", "_self")}>
+              <button className="w-full p-3 rounded-lg text-white dark:bg-neutral-700 bg-black dark:hover:bg-neutral-800 transition-all ease-in-out duration-500 mt-4 font-InterBo" 
+              >
                 Submit Inquiry
               </button>
 
