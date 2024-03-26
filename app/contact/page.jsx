@@ -3,6 +3,8 @@ import { AiOutlineDribbble } from "react-icons/ai";
 import { CiInstagram, CiTwitter } from "react-icons/ci";
 import { FaLinkedinIn } from "react-icons/fa";
 
+
+
 function page() {
   return (
     <div className="bg-white top-24 relative dark:bg-[#212121] shadow-md rounded-xl max-w-xl lg:mx-auto mx-4 lg:max-w-xl  max-2xl  md:mx-auto sm:mx-auto lg:px-0 ">
@@ -10,9 +12,9 @@ function page() {
         <div className=" lg:p-6 p-3">
           <div className="flex justify-between  w-full">
             <div className="flex items-center gap-x-2 font-InterRe">
-              <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
+              <div className="w-[6px] h-[6px] rounded-full  bg-[#FB6D48]" />
               <h1 className="text-neutral-700 dark:text-[#C0C0C0] max-md:text-xl text-xl font-InterRe font-bold">
-                Hire Me
+                Send an Email
               </h1>
             </div>
             <div className="bg-[#F6F8FA] dark:bg-[#115e3b] h-6 w-6 lg:w-fit lg:px-3 rounded-full flex items-center justify-center gap-x-2">
@@ -24,9 +26,9 @@ function page() {
           </div>
 
           <div className="mt-9">
-            <h1 className="text-4xl font-InterBo">Design Inquiry</h1>
+            <h1 className="text-4xl font-InterBo">Make an Inquiry</h1>
             <p className="dark:text-[#C0C0C0] my-5">
-              Got an idea and need design help? Reach out now
+              Wanna Reach out?
             </p>
 
             <div>
@@ -60,9 +62,10 @@ function page() {
                 ></textarea>
               </div>
 
-              <button className="w-full p-3 rounded-lg text-white dark:bg-neutral-700 bg-black dark:hover:bg-neutral-800 transition-all ease-in-out duration-500 mt-4 font-InterBo">
+              <button className="w-full p-3 rounded-lg text-white dark:bg-neutral-700 bg-black dark:hover:bg-neutral-800 transition-all ease-in-out duration-500 mt-4 font-InterBo" onClick={() => window.open("mailto:elrizah@gmail.com", "_self")}>
                 Submit Inquiry
               </button>
+
             </div>
           </div>
         </div>
@@ -95,12 +98,12 @@ function page() {
         <div className="bg-[#F6F8FA] dark:bg-[#2C2C2C] p-6  mt-4 rounded-md">
           <div className="text-center">
             <span className="text-neutral-700 dark:text-neutral-400">
-              © 2023 Joscript Folio – Jo free Templates
+              © 2024 Elsarita – elrizah@gmail.com
             </span>
             <p className="text-neutral-500">
               By{" "}
               <span className="hover:underline  hover:text-neutral-400 text-neutral-700 dark:text-neutral-300">
-                Joscript
+                kooya3
               </span>
             </p>
           </div>

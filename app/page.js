@@ -11,23 +11,23 @@ import { motion } from "framer-motion";
 const links = [
   {
     img: "/img/img1.png",
-    title: "Rectangle",
-    subtitle: ["Product design, Icon design"],
+    title: "About Me",
+    subtitle: ["My History, Experience"],
     icon: <BsChevronRight />,
-    href: "/rectangle",
+    href: "/about",
   },
   {
     img: "/img/wink.png",
-    title: "Morva labs",
-    subtitle: ["Visual design, Branding"],
-    href: "/morvalabs",
+    title: "Hobbies",
+    subtitle: [""],
+    href: "/",
   },
   {
     img: "/img/foot.png",
-    title: "Simply",
-    subtitle: ["Landing  page, illustration design"],
+    title: "Laurels",
+    subtitle: [""],
     // u can redirect to other sites here
-    href: "/simply",
+    href: "/",
   },
 ];
 const projects = [
@@ -101,7 +101,7 @@ export default function Home() {
                   }}
                   className="  text-lg max-md:text-center  my-3 text-neutral-500 dark:text-neutral-300"
                 >
-                  +47 Norway. Oslo <br /> {" "}
+                  +47 Norway, Oslo. <br /> {" "}
                 </motion.p>
                 <div className="flex items-center gap-x-2 mt-6">
                   <div className="bg-black dark:bg-[#373737] w-fit shadow-md px-2 rounded-md flex items-center gap-x-2 py-1">
@@ -143,7 +143,7 @@ export default function Home() {
                   </h1> 
                 </div>
 
-               {/*  <div className="border-neutral-300 dark:border-neutral-700 bg-white dark:bg-[#373737] shadow-md border  w-fit h-8 px-2 rounded-md  flex items-center gap-x-1 ">
+               <div className="border-neutral-300 dark:border-neutral-700 bg-white dark:bg-[#373737] shadow-md border  w-fit h-8 px-2 rounded-md  flex items-center gap-x-1 ">
                   <button className="text-neutral-700 dark:text-white  text-sm font-semibold">
                     View All
                   </button>
@@ -157,7 +157,7 @@ export default function Home() {
                       key={link.img}
                       className="bg-white dark:bg-[#373737] mt-3  mb-4 rounded-xl  max-md:flex-col max-md:items-start flex items-center justify-between p-5 dark:border-neutral-600  shadow-md drop-shadow-md dark:border max-md:p-7 "
                     >
-                      <Link href={link.href}>
+                     <Link href={link.href}>
                         <div className="flex items-center gap-x-4 max-md:flex-col max-md:items-start">
                           <div className="drop-shadow-md">
                             <img
@@ -178,17 +178,17 @@ export default function Home() {
                             </div>
                           </div>
                         </div>
-                      </Link>
+                      </Link> 
 
                       <div className="max-md:hidden md:block">
                         <BsChevronRight />
                       </div>
                     </div>
-                  ))}
-               </div> */}
+                  ))} 
+               </div> 
               </div>
-            </div>
-          </div>
+            </div>  
+          </div> 
           <div>
             <div className="dark:bg-[#2C2C2C] bg-[#F6F8FA] p-6  mt-6 rounded-md">
               <div className="flex items-center gap-x-2 font-InterRe">
