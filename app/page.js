@@ -106,7 +106,7 @@ export default function Home() {
                 <div className="flex items-center gap-x-2 mt-6">
                   <div className="bg-black dark:bg-[#373737] w-fit shadow-md px-2 rounded-md flex items-center gap-x-2 py-1">
                     <AiOutlinePlusCircle className="text-white tex-3" />
-                    <span className="text-white font-semibold">Hire Me</span>
+                    <a href="mailto:your-email@example.com"><span className="text-white font-semibold">Hire Me</span></a>
                   </div>
                   <div className="border-neutral-300 dark:border-neutral-700/50 shadow-md border w-fit h-8 px-2 rounded-md flex items-center gap-x-2">
                     <FiCopy className="" />
