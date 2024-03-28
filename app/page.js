@@ -15,20 +15,19 @@ const links = [
     subtitle: ["My History, Experience"],
     icon: <BsChevronRight />,
     href: "/about",
-  },
-  {
+},
+{
     img: "/img/wink.png",
     title: "Hobbies",
-    subtitle: [""],
+    subtitle: ["What I Enjoy Doing in My Free Time"],
     href: "/",
-  },
-  {
+},
+{
     img: "/img/foot.png",
     title: "Laurels",
-    subtitle: [""],
-    // u can redirect to other sites here
+    subtitle: ["My Achievements and Accolades"],
     href: "/",
-  },
+}
 ];
 const projects = [
   {
