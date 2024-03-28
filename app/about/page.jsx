@@ -206,12 +206,7 @@ function page() {
                     <CiTwitter className="text-neutral-500 dark:text-white" />
                   </div>
                 </a>
-                <a href="https://instagram.com/">
-                  <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737] dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1">
-                    <CiAlarmOn className="text-neutral-500 dark:text-white" />
-                  </div>
-                </a>
-                <a href="https://github.com/">
+                <a href="https://github.com/kooya3">
                   <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737] dark:border-none w-9 h-9 px-2 rounded-full flex justify-center items-center gap-x-1">
                     <AiFillGithub className="text-neutral-500 dark:text-white" />
                   </div>
