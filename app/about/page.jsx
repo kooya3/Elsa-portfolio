@@ -214,8 +214,8 @@ function page() {
                 <a href="https://www.linkedin.com/in/elsarita-njoki-oulie-b22b3a291/">
                   <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737] dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1">
                     <FaLinkedinIn className="text-neutral-500 dark:text-white" />
-                  </div>
-                </a>
+              </div>
+              </a>
               </div>
             </div>
           </div>
@@ -226,7 +226,7 @@ function page() {
                 © 2024 Elsarita – elrizah@gmail.com
               </span>
               <p className="text-neutral-500">
-                By{" "}
+                By{""}
                 <span className="hover:underline  hover:text-neutral-400 text-neutral-700 dark:text-neutral-300">
                   kooya3
                 </span>
