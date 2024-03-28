@@ -26,7 +26,7 @@ const links = [
     img: "/img/foot.png",
     title: "Laurels",
     subtitle: ["My Achievements and Accolades"],
-    href: "/",
+    href: "/about",
 }
 ];
 const projects = [
