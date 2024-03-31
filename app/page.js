@@ -86,7 +86,7 @@ export default function Home() {
 
             <div className="  flex-col md:flex-row   my-16 flex items-center md:justify-between">
               <div className=" sm:order-2   max-md:mt-10 flex md:block md:flex-row items-center  flex-col md:order-1 order-2">
-                <h1 className="text-4xl text-neutral-700 font-InterBo dark:text-white">
+                <h1 className="text-4xl text-neutral-700 font-InterBo dark:text-white text-center">
                   Forklift Operator
                 </h1>
 
