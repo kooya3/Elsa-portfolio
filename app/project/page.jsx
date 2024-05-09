@@ -233,7 +233,7 @@ function page() {
           <div className="bg-[#F6F8FA] dark:bg-[#2C2C2C] p-6  mt-4 rounded-md">
             <div className="text-center">
               <span className="text-neutral-700 dark:text-neutral-400">
-                © 2023 Joscript Folio – Jo free Templates
+                © 2024 kooya3 Folio – Templates
               </span>
               <p className="text-neutral-500">
                 By{" "}
