@@ -238,7 +238,7 @@ function page() {
               <p className="text-neutral-500">
                 By{" "}
                 <span className="hover:underline  hover:text-neutral-400 text-neutral-700 dark:text-neutral-300">
-                  Joscript
+                  kooya3
                 </span>
               </p>
             </div>
