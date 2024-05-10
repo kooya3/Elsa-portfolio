@@ -20,7 +20,7 @@ const links = [
     img: "/img/wink.png",
     title: "Hobbies",
     subtitle: ["What I Enjoy Doing in My Free Time"],
-    href: "/about",
+    href: "/rectangle",
 },
 {
     img: "/img/foot.png",
@@ -30,7 +30,7 @@ const links = [
 }
 ];
 const projects = [
-  {
+/*   {
     img: "/img/pizza.png",
     title: "Goven",
     subtitle: "framer template",
@@ -45,7 +45,7 @@ const projects = [
     img: "/img/foot.png",
     title: "Subtle Folio",
     subtitle: "framer template",
-  },
+  }, */
 ];
 
 export default function Home() {
@@ -198,7 +198,7 @@ export default function Home() {
               </div>
 
               <div className="mt-14">
-                {/* <Link href={"/"}>
+                 <Link href={"/"}>
                   {projects.map((link) => (
                     <div
                       key={link.subtitle}
@@ -228,7 +228,7 @@ export default function Home() {
                       </div>
                     </div>
                   ))}
-                </Link> */}
+                </Link> 
               </div>
             </div>
           </div>
@@ -265,9 +265,9 @@ export default function Home() {
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-x-2 font-InterRe">
                 <div className="w-[6px] h-[6px] rounded-full" />
-                {/* <h1 className="text-[#A0153E] text-lg font-InterMe">
+                 <h1 className="text-[#A0153E] text-lg font-InterMe">
                   Follow Me
-                </h1> */}
+                </h1> 
               </div>
 
               <div className="flex gap-x-14 space-x-3">
