@@ -7,7 +7,7 @@ import { CiInstagram, CiTwitter } from "react-icons/ci";
 import { FaLinkedinIn } from "react-icons/fa";
 
 const links = [
-  {
+/*   {
     img: "/img/img1.png",
     title: "Rectangle",
     subtitle: ["Product design, Icon design"],
@@ -25,8 +25,8 @@ const links = [
     title: "Simply",
     subtitle: ["Landing  page, illustration design"],
     // u can redirect to other sites here
-    href: "/simply",
-  },
+    href: "/simply", 
+  }, */
 ];
 
 function page() {
@@ -67,7 +67,7 @@ function page() {
 
             <div className="border-neutral-300 mt-5 dark:border-neutral-700 bg-white dark:bg-[#373737] shadow-md border  w-fit h-8 px-2 rounded-md max-sm:flex-col flex items-center gap-x-1 ">
               <button className="text-neutral-700 dark:text-white  text-sm font-semibold">
-                View All
+              {/*   View All */}
               </button>
               <FiArrowRight className="text-neutral-500" />
             </div>
