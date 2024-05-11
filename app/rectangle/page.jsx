@@ -33,26 +33,39 @@ function page() {
   return (
     <div className="bg-white top-24 relative dark:bg-[#212121] shadow-md rounded-xl max-w-xl lg:mx-auto mx-4 lg:max-w-xl max-2xl md:mx-auto sm:mx-auto lg:px-0 ">
       <div className=" lg:p-6 p-2 max-md:p-5 ">
-        <div className="dark:bg-neutral-800 bg-[#F1F4F8] leading-8 rounded-lg p-4 flex gap-x-11">
-          <div>
-            <p>Client</p>
-            <p>Company</p>
-            <p>Project Type</p>
-            <p>Year</p>
-          </div>
-          <div>
-            <p>Goven</p>
-            <p>Rectangle</p>
-            <p>Production design, Icon Design</p>
-            <p>2023</p>
-          </div>
-        </div>
+      <div className="dark:bg-neutral-800 bg-[#F1F4F8] leading-8 rounded-lg p-4 flex flex-col lg:flex-row gap-x-11">
+  <div className="lg:border-r-2 lg:pr-8">
+    <p className="text-lg font-bold">Let's Meet My Hobbies:</p>
+    <div className="flex flex-col lg:flex-row">
+{/*       <p className="text-lg">1. Swimming</p>
+      <p className="text-lg">2. Boating</p>
+      <p className="text-lg">3. Skiing</p>
+      <p className="text-lg">4. Cycling</p> */}
+    </div>
+  </div>
+  <div>
+    <div>
+      <p className="text-lg font-bold">Swimming</p>
+      <p className="text-lg"></p>
+    </div>
+    <div>
+      <p className="text-lg font-bold">Skiing</p>
+      <p className="text-lg font-bold">Boating</p>
+    </div>
+    <div>
+      <p className="text-lg font-bold">Cycling</p>
+      <p className="text-lg"></p>
+    </div>
+  </div>
+</div>
+
+
 
         <div className="px-4">
           <div className="drop-shadow-md  mt-8">
             <img
               className="w-12 h-12 object-cover rounded-full "
-              src="/img/img1.png"
+              src="/img/img4.png"
               alt=""
             />
           </div>
@@ -75,7 +88,7 @@ function page() {
             <div className="mt-8">
               <img
                 className="aspect-square rounded-lg"
-                src="/img/img3.png"
+                src="/img/ski.jpeg"
                 alt=""
               />
               <p className="my-5 text-lg dark:text-neutral-300  text-neutral-900">
@@ -88,7 +101,7 @@ function page() {
 
               <img
                 className="aspect-square rounded-lg"
-                src="/img/img5.png"
+                src="/img/bike.jpeg"
                 alt=""
               />
 
@@ -108,7 +121,7 @@ function page() {
 
               <img
                 className="aspect-square rounded-lg my-7"
-                src="/img/img6.png"
+                src="/img/boat1.jpeg"
                 alt=""
               />
 
@@ -237,15 +250,15 @@ function page() {
             </div>
           </div>
 
-          <div className="bg-[#F6F8FA] dark:bg-[#2C2C2C] p-6  mt-4 rounded-md">
+          <div className="bg-[#2d2f30] p-6  mt-4 rounded-md">
             <div className="text-center">
               <span className="text-neutral-700 dark:text-neutral-400">
-                © 2023 Joscript Folio – Framer Template
+              © 2024 Elsarita – elrizah@gmail.com
               </span>
               <p className="text-neutral-500">
                 By{" "}
                 <span className="hover:underline  hover:text-neutral-400 text-neutral-700 dark:text-neutral-300">
-                  Joscript
+                  kooya3
                 </span>
               </p>
             </div>
