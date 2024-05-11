@@ -35,7 +35,7 @@ function page() {
       <div className=" lg:p-6 p-2 max-md:p-5 ">
       <div className="dark:bg-neutral-800 bg-[#F1F4F8] leading-8 rounded-lg p-4 flex flex-col lg:flex-row gap-x-11">
   <div className="lg:border-r-2 lg:pr-8">
-    <p className="text-lg font-bold">Let's Meet My Hobbies:</p>
+    <p className="text-lg font-bold">Let's Meet My Hobbies: 🛠️</p>
     <div className="flex flex-col lg:flex-row">
 {/*       <p className="text-lg">1. Swimming</p>
       <p className="text-lg">2. Boating</p>
