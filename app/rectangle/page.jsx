@@ -71,7 +71,7 @@ function page() {
           </div>
 
           <div>
-            <h1 className="text-4xl font-InterBo my-5">Rectangle</h1>
+            <h1 className="text-4xl font-InterBo my-5">Hobbies</h1>
             <p className="text-lg dark:text-neutral-300  text-neutral-900">
               An innovative platform that empowers businesses to efficiently
               manage their workforce, delivering a seamless user experience
