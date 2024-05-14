@@ -38,7 +38,11 @@ const projects = [  {
   title: "Cisco Certified Network Associate",
   subtitle: "(AFRALTI): ID 08653Crede",
 },
-
+{
+  img: "/img/foot.png",
+  title: "Forklift Certification",
+  subtitle: "Toyota Material Handling Norway T1, T4",
+},
 ];
 
 function page() {
