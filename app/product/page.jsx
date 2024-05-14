@@ -33,23 +33,12 @@ const links = [
   },
 ];
 
-const projects = [
-  {
-    img: "/img/pizza.png",
-    title: "Goven",
-    subtitle: "framer template",
-    icon: <BsChevronRight />,
-  },
-  {
-    img: "/img/wink.png",
-    title: "Upshifts",
-    subtitle: "Web design collections",
-  },
-  {
-    img: "/img/foot.png",
-    title: "Subtle Folio",
-    subtitle: "framer template",
-  },
+const projects = [  {
+  img: "/img/wink.png",
+  title: "Cisco Certified Network Associate",
+  subtitle: "(AFRALTI): ID 08653Crede",
+},
+
 ];
 
 function page() {
