@@ -69,7 +69,7 @@ function page() {
 
         <div className=" mt-7 md:px-6 p-2 ">
           <h1 className="text-4xl font-InterBo mt-7 my-3 dark:text-white text-neutral-800">
-            Explore My Laurels
+            Explore My Products
           </h1>
           <p className="text-neutral-700 text-base my-7 leading-8 font-InterRe dark:text-[#C0C0C0]">
             Discover my portfolio, where purposeful interfaces meet captivating
