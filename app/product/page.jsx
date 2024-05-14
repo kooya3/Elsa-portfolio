@@ -63,7 +63,7 @@ function page() {
         <div className="flex items-center mt-4 px-6  gap-x-2 ">
           <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
           <h1 className="text-neutral-700   dark:text-[#C0C0C0] text-lg font-InterMe">
-            Projects
+            Achievements
           </h1>
         </div>
 
