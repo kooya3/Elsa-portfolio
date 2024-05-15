@@ -65,8 +65,9 @@ function page() {
             Explore My Laurels
           </h1>
           <p className="text-neutral-700 text-base my-7 leading-8 font-InterRe dark:text-[#C0C0C0]">
-            Discover my portfolio, where purposeful interfaces meet captivating
-            design. My work strives to enhance experiences and inspire.
+            Hi, I'm Elsarita Njoki Oulie, Here is my dedicated little corner on the web.  commitment meets captivating design. My work strives to enhance experiences and inspire.
+           {/*  
+            "Hi, I'm Elyees Tatua, a passionate full-stack and web developer from Nairobi, Kenya. With three years of experience, I excel at building high-quality, efficient, and user-friendly solutions. My GitHub showcases my commitment to coding with over 6,000 contributions! I'm particularly interested in SaaS models and how technology can impact our world. I'm eager to learn and grow, always seeking new opportunities to challenge myself. As a proud Kikuyu, my cultural heritage is important to me, instilling a deep appreciation for community and tradition. Let's connect and explore how my skills can contribute to your team!" */}
           </p>
         </div>
 
