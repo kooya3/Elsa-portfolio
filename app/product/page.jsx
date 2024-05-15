@@ -65,7 +65,7 @@ function page() {
             Explore My Laurels
           </h1>
           <p className="text-neutral-700 text-base my-7 leading-8 font-InterRe dark:text-[#C0C0C0]">
-            Discover my portfolio, where purposeful interfaces meet captivating
+            Discover my portfolio, where purposeful commitment meets captivating
             design. My work strives to enhance experiences and inspire.
           </p>
         </div>
