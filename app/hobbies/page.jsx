@@ -67,7 +67,7 @@ function page() {
 
             <div className="mt-8">
               <img
-                className="aspect-square rounded-lg"
+                className="aspect-auto rounded-lg"
                 src="/img/ski.jpeg"
                 alt=""
               />
