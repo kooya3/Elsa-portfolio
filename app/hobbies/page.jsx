@@ -12,15 +12,14 @@ function page() {
   return (
     <div className="bg-white top-24 relative dark:bg-[#212121] shadow-md rounded-xl max-w-xl lg:mx-auto mx-4 lg:max-w-xl max-2xl md:mx-auto sm:mx-auto lg:px-0 ">
       <div className=" lg:p-6 p-2 max-md:p-5 ">
-      <div className="dark:bg-neutral-800 bg-[#F1F4F8] leading-8 rounded-lg p-4 flex flex-col lg:flex-row gap-x-11">
-  <div className="lg:border-r-2 lg:pr-8">
-    <p className="text-lg font-bold">Let's Meet My Hobbies: 🛠️</p>
-
+      <div className="dark:bg-neutral-800 bg-[#F1F4F8] leading-8 rounded-lg p-4 flex flex-col lg:flex-row gap-x-11 justify-center">
+  <div className="lg:border-r-2 lg:pr-8 ">
+    <p className="text-lg font-bold "> Let's Meet My Hobbies: 🛠️</p>
     </div>
   </div>
   <div>
     <div>
-    <div className="flex flex-col lg:flex-col gap-2">
+    <div className="flex justify-between flex-col lg:flex-row m-2">
       <p className="text-lg">1. Swimming</p>
       <p className="text-lg">2. Boating</p>
 
@@ -28,7 +27,7 @@ function page() {
       {/* <p className="text-lg font-bold">Swimming</p>
       <p className="text-lg">I love swimming as it refreshes my mind and keeps me active.</p> */}
     </div>
-    <div className="flex flex-col lg:flex-col gap-2">
+    <div className="flex justify-between  flex-col lg:flex-row m-2">
       <p className="text-lg">3. Skiing</p>
       <p className="text-lg">4. Cycling</p>
      {/*  <p className="text-lg font-bold">Skiing</p>
