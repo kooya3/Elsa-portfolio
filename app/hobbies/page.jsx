@@ -76,7 +76,7 @@ function page() {
               </p>
 
               <img
-                className="aspect-square rounded-lg"
+                className="aspect-auto rounded-lg"
                 src="/img/bike.jpeg"
                 alt=""
               />
@@ -106,7 +106,7 @@ function page() {
           <div className="bg-[#F6F8FA] mt-11 dark:bg-[#2C2C2C] p-6 max-md:p-3 rounded-xl">
             <div className="flex items-center justify-between mt-4">
               <div className="flex items-center gap-x-2 font-InterRe">
-                <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
+                <div className="w-[6px] h-[6px] rounded-full  bg-[#1f9733]" />
                 <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
                   Projects
                 </h1>
