@@ -6,28 +6,7 @@ import { AiOutlineDribbble, AiOutlinePlusCircle } from "react-icons/ai";
 import { CiInstagram, CiTwitter } from "react-icons/ci";
 import { FaLinkedinIn } from "react-icons/fa";
 
-const links = [
-/*   {
-    img: "/img/img1.png",
-    title: "Rectangle",
-    subtitle: ["Product design, Icon design"],
-    icon: <BsChevronRight />,
-    href: "/rectangle",
-  },
-  {
-    img: "/img/wink.png",
-    title: "Morva labs",
-    subtitle: ["Visual design, Branding"],
-    href: "/morvalabs",
-  },
-  {
-    img: "/img/foot.png",
-    title: "Simply",
-    subtitle: ["Landing  page, illustration design"],
-    // u can redirect to other sites here
-    href: "/simply", 
-  }, */
-];
+const links = [];
 
 function page() {
   return (
@@ -37,24 +16,25 @@ function page() {
   <div className="lg:border-r-2 lg:pr-8">
     <p className="text-lg font-bold">Let's Meet My Hobbies: 🛠️</p>
     <div className="flex flex-col lg:flex-row">
-{/*       <p className="text-lg">1. Swimming</p>
+      <p className="text-lg">1. Swimming</p>
       <p className="text-lg">2. Boating</p>
       <p className="text-lg">3. Skiing</p>
-      <p className="text-lg">4. Cycling</p> */}
+      <p className="text-lg">4. Cycling</p>
     </div>
   </div>
   <div>
     <div>
       <p className="text-lg font-bold">Swimming</p>
-      <p className="text-lg"></p>
+      <p className="text-lg">I love swimming as it refreshes my mind and keeps me active.</p>
     </div>
     <div>
       <p className="text-lg font-bold">Skiing</p>
       <p className="text-lg font-bold">Boating</p>
+      <p className="text-lg">Boating is my way of unwinding and enjoying the serenity of the water.</p>
     </div>
     <div>
       <p className="text-lg font-bold">Cycling</p>
-      <p className="text-lg"></p>
+      <p className="text-lg">Cycling allows me to explore new places and stay fit at the same time.</p>
     </div>
   </div>
 </div>
@@ -71,11 +51,9 @@ function page() {
           </div>
 
           <div>
-            <h1 className="text-4xl font-InterBo my-5"> My Hobbies</h1>
+            <h1 className="text-4xl font-InterBo my-5">Hobbies</h1>
             <p className="text-lg dark:text-neutral-300  text-neutral-900">
-              An innovative platform that empowers businesses to efficiently
-              manage their workforce, delivering a seamless user experience
-              while distinguishing itself from competitors.
+              Exploring hobbies is as essential as exploring new technologies. Here's a glimpse of what I love to do in my free time.
             </p>
 
             <div className="border-neutral-300 mt-5 dark:border-neutral-700 bg-white dark:bg-[#373737] shadow-md border  w-fit h-8 px-2 rounded-md max-sm:flex-col flex items-center gap-x-1 ">
@@ -92,11 +70,7 @@ function page() {
                 alt=""
               />
               <p className="my-5 text-lg dark:text-neutral-300  text-neutral-900">
-                As a business owner, I enlisted my expertise as a product designer to
-                develop a website that would boost my brand awareness and
-                conversions. Crafting a modern, professional website, my
-                priority was to set myself apart from competitors and attract new
-                customers.
+                Skiing allows me to embrace the thrill of the mountains and connect with nature in its purest form.
               </p>
 
               <img
@@ -109,13 +83,7 @@ function page() {
                 The Problems to Solve
               </h3>
               <p className="text-lg dark:text-neutral-300  text-neutral-900">
-                To tackle this endeavor, my approach revolved around shaping a
-                unique brand identity that adeptly conveyed my fundamental principles of sustainability, innovation, and
-                authenticity. My team and I devoted meticulous attention to crafting
-                an all-encompassing brand strategy, encompassing both product
-                design and website development, geared towards establishing a
-                visually captivating and unforgettable brand persona,
-                distinguishing me amidst my competition.
+                Cycling through challenging terrains not only tests my physical endurance but also rejuvenates my spirit.
               </p>
 
               <img
@@ -124,15 +92,9 @@ function page() {
                 alt=""
               />
 
-              <h3 className="text-lg my-6 font-InterBo">My Solution</h3>
+              <h3 className="text-lg my-6 font-InterBo">Our Solution</h3>
               <p className="text-lg dark:text-neutral-300  text-neutral-900">
-                Through thoughtful product design, we ensured that my offerings seamlessly aligned with my core values,
-                incorporating sustainable materials and innovative design
-                principles. Concurrently, our website development team crafted a
-                user-centric digital platform that not only showcased
-                my products but also effectively conveyed my
-                environmental mission, fostering authentic engagement with
-                visitors.
+                Boating offers me moments of tranquility and allows me to escape the hustle and bustle of everyday life.
               </p>
             </div>
           </div>
