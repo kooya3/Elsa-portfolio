@@ -94,7 +94,9 @@ function page() {
                 alt=""
               />
 
-              <h3 className="text-lg my-6 font-InterBo">Our Solution</h3>
+              <h3 className="text-lg my-6 font-InterBo">
+                
+              </h3>
               <p className="text-lg dark:text-neutral-300  text-neutral-900">
                 Boating offers me moments of tranquility and allows me to escape the hustle and bustle of everyday life.
               </p>
