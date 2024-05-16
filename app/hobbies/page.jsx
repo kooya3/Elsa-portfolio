@@ -92,10 +92,10 @@ function page() {
                 alt=""
               />
               <p className="my-5 text-lg dark:text-neutral-300  text-neutral-900">
-                A business owner enlisted my expertise as a product designer to
-                develop a website that would boost their brand awareness and
+                As a business owner, I enlisted my expertise as a product designer to
+                develop a website that would boost my brand awareness and
                 conversions. Crafting a modern, professional website, my
-                priority was to set them apart from competitors and attract new
+                priority was to set myself apart from competitors and attract new
                 customers.
               </p>
 
@@ -109,14 +109,13 @@ function page() {
                 The Problems to Solve
               </h3>
               <p className="text-lg dark:text-neutral-300  text-neutral-900">
-                To tackle this endeavor, our approach revolved around shaping a
-                unique brand identity that adeptly conveyed Rectangle's
-                fundamental principles of sustainability, innovation, and
-                authenticity. Our team devoted meticulous attention to crafting
+                To tackle this endeavor, my approach revolved around shaping a
+                unique brand identity that adeptly conveyed my fundamental principles of sustainability, innovation, and
+                authenticity. My team and I devoted meticulous attention to crafting
                 an all-encompassing brand strategy, encompassing both product
                 design and website development, geared towards establishing a
                 visually captivating and unforgettable brand persona,
-                distinguishing Rectangle amidst its competition.
+                distinguishing me amidst my competition.
               </p>
 
               <img
@@ -125,14 +124,13 @@ function page() {
                 alt=""
               />
 
-              <h3 className="text-lg my-6 font-InterBo">Our Solution</h3>
+              <h3 className="text-lg my-6 font-InterBo">My Solution</h3>
               <p className="text-lg dark:text-neutral-300  text-neutral-900">
-                Through thoughtful product design, we ensured that Rectangle's
-                offerings seamlessly aligned with their core values,
+                Through thoughtful product design, we ensured that my offerings seamlessly aligned with my core values,
                 incorporating sustainable materials and innovative design
                 principles. Concurrently, our website development team crafted a
                 user-centric digital platform that not only showcased
-                Rectangle's products but also effectively conveyed their
+                my products but also effectively conveyed my
                 environmental mission, fostering authentic engagement with
                 visitors.
               </p>
@@ -270,3 +268,4 @@ function page() {
 }
 
 export default page;
+
