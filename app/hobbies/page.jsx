@@ -76,7 +76,7 @@ function page() {
               </p>
 
               <img
-                className="aspect-square rounded-lg"
+                className="aspect-auto rounded-lg"
                 src="/img/bike.jpeg"
                 alt=""
               />
