@@ -67,7 +67,21 @@ function page() {
           <p className="text-neutral-700 text-base my-7 leading-8 font-InterRe dark:text-[#C0C0C0]">
             Hi, I'm Elsarita Njoki Oulie, Here is my dedicated little corner on the web. My work strives to enhance experiences and inspire. 
            {/*  
-            "Hi, I'm Elyees Tatua, a passionate full-stack and web developer from Nairobi, Kenya. With three years of experience, I excel at building high-quality, efficient, and user-friendly solutions. My GitHub showcases my commitment to coding with over 6,000 contributions! I'm particularly interested in SaaS models and how technology can impact our world. I'm eager to learn and grow, always seeking new opportunities to challenge myself. As a proud Kikuyu, my cultural heritage is important to me, instilling a deep appreciation for community and tradition. Let's connect and explore how my skills can contribute to your team!" */}
+            "Hi, I'm Elyees Tatua, a passionate full-stack and web developer from Nairobi, Kenya. With three years of experience, I excel at building high-quality, efficient, and user-friendly solutions. My GitHub showcases my commitment to coding with over 6,000 contributions! I'm particularly interested in SaaS models and how technology can impact our world. I'm eager to learn and grow, always seeking new opportunities to challenge myself. As a proud Kikuyu, my cultural heritage is important to me, instilling a deep appreciation for community and tradition. Let's connect and explore how my skills can contribute to your team!" 
+            
+
+            Greetings from Nairobi, Kenya! With three years behind the wheel, I've honed my skills in maneuvering forklifts to efficiently handle various tasks. Whether it's loading and unloading cargo or navigating tight spaces, I excel in ensuring smooth operations with a keen eye for safety and efficiency.
+            While my playground might be the warehouse floor, my passion for precision extends to digital realms as well. My GitHub profile is a testament to my dedication, boasting over 6,000 contributions. I'm particularly intrigued by how technology intersects with logistics, constantly seeking ways to optimize processes and enhance productivity.
+            As a forklift driver, I understand the importance of teamwork and reliability. My cultural roots in the Kikuyu community instill in me a deep sense of responsibility and respect for collaboration. I believe in the power of technology to transform our world, and I'm eager to leverage my skills to drive positive change.
+            Let's connect and explore how my hands-on experience and technical expertise can elevate your team's operations!
+
+            my true passion lies in the intersection of technology and logistics. I am deeply fascinated by how innovative solutions can optimize workflows and enhance efficiency in the transportation and logistics industry.
+
+            As a proud member of the Kikuyu community, I carry forward the values of unity and tradition in all aspects of my work. I believe in the power of community and collaboration to achieve common goals.
+
+            I am eager to expand my knowledge and skills further, always seeking new challenges and opportunities to grow. Let's connect and explore how my expertise in forklift operations and my passion for technology can contribute to the success of your team!
+            
+            */}
           </p>
         </div>
 
