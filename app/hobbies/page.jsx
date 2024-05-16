@@ -82,7 +82,7 @@ function page() {
               />
 
               <h3 className="text-lg my-6 font-InterBo">
-                The Problems to Solve
+                
               </h3>
               <p className="text-lg dark:text-neutral-300  text-neutral-900">
                 Cycling through challenging terrains not only tests my physical endurance but also rejuvenates my spirit.
