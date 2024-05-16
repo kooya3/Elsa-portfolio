@@ -20,7 +20,7 @@ const links = [
     img: "/img/wink.png",
     title: "Hobbies",
     subtitle: ["What I Enjoy Doing in My Free Time"],
-    href: "/rectangle",
+    href: "/hobbies",
 },
 {
     img: "/img/foot.png",
