@@ -15,19 +15,22 @@ function page() {
       <div className="dark:bg-neutral-800 bg-[#F1F4F8] leading-8 rounded-lg p-4 flex flex-col lg:flex-row gap-x-11">
   <div className="lg:border-r-2 lg:pr-8">
     <p className="text-lg font-bold">Let's Meet My Hobbies: 🛠️</p>
-    <div className="flex flex-col lg:flex-col gap-2">
-      <p className="text-lg">1. Swimming</p>
-      <p className="text-lg">2. Boating</p>
-      <p className="text-lg">3. Skiing</p>
-      <p className="text-lg">4. Cycling</p>
+
     </div>
   </div>
   <div>
     <div>
+    <div className="flex flex-col lg:flex-col gap-2">
+      <p className="text-lg">1. Swimming</p>
+      <p className="text-lg">2. Boating</p>
+
+
       {/* <p className="text-lg font-bold">Swimming</p>
       <p className="text-lg">I love swimming as it refreshes my mind and keeps me active.</p> */}
     </div>
-    <div>
+    <div className="flex flex-col lg:flex-col gap-2">
+      <p className="text-lg">3. Skiing</p>
+      <p className="text-lg">4. Cycling</p>
      {/*  <p className="text-lg font-bold">Skiing</p>
       <p className="text-lg font-bold">Boating</p>
       <p className="text-lg">Boating is my way of unwinding and enjoying the serenity of the water.</p> */}
