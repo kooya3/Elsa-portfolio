@@ -24,13 +24,13 @@ function page() {
   </div>
   <div>
     <div>
-      <p className="text-lg font-bold">Swimming</p>
-      <p className="text-lg">I love swimming as it refreshes my mind and keeps me active.</p>
+      {/* <p className="text-lg font-bold">Swimming</p>
+      <p className="text-lg">I love swimming as it refreshes my mind and keeps me active.</p> */}
     </div>
     <div>
-      <p className="text-lg font-bold">Skiing</p>
+     {/*  <p className="text-lg font-bold">Skiing</p>
       <p className="text-lg font-bold">Boating</p>
-      <p className="text-lg">Boating is my way of unwinding and enjoying the serenity of the water.</p>
+      <p className="text-lg">Boating is my way of unwinding and enjoying the serenity of the water.</p> */}
     </div>
     <div>
       <p className="text-lg font-bold">Cycling</p>
