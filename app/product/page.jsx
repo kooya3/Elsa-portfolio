@@ -68,7 +68,7 @@ function page() {
 
           Hi, I'm Elsarita Njoki Oulie, and welcome to my dedicated corner on the web! Here, my work as a forklift driver intersects with my passion for technology and cultural heritage. With years of experience navigating warehouse environments with precision and efficiency, My expertise lies in ensuring seamless operations and safety within warehouse environments, where I excel in maneuvering forklifts to optimize workflows. My true passion lies in the fusion of technology and logistics. As a proud member of the Kikuyu community, I carry forward the values of unity and tradition in all aspects of my work. I believe in the power of community and collaboration to achieve common goals. Let's connect and explore how my expertise in forklift operations and my passion for technology can contribute to the success of your team!
 
-           {/* constantly seeking ways to optimize processes and enhance productivity.
+           {/*
             As a forklift driver, I understand the importance of teamwork and reliability. My cultural roots in the Kikuyu community instill in me a deep sense of responsibility and respect for collaboration. I believe in the power of technology to transform our world, and I'm eager to leverage my skills to drive positive change.
             Let's connect and explore how my hands-on experience and technical expertise can elevate your team's operations!
 
