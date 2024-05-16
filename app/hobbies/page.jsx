@@ -15,7 +15,7 @@ function page() {
       <div className="dark:bg-neutral-800 bg-[#F1F4F8] leading-8 rounded-lg p-4 flex flex-col lg:flex-row gap-x-11">
   <div className="lg:border-r-2 lg:pr-8">
     <p className="text-lg font-bold">Let's Meet My Hobbies: 🛠️</p>
-    <div className="flex flex-col lg:flex-row">
+    <div className="flex flex-col lg:flex-col gap-2">
       <p className="text-lg">1. Swimming</p>
       <p className="text-lg">2. Boating</p>
       <p className="text-lg">3. Skiing</p>
@@ -24,17 +24,17 @@ function page() {
   </div>
   <div>
     <div>
-      <p className="text-lg font-bold">Swimming</p>
-      <p className="text-lg">I love swimming as it refreshes my mind and keeps me active.</p>
+      {/* <p className="text-lg font-bold">Swimming</p>
+      <p className="text-lg">I love swimming as it refreshes my mind and keeps me active.</p> */}
     </div>
     <div>
-      <p className="text-lg font-bold">Skiing</p>
+     {/*  <p className="text-lg font-bold">Skiing</p>
       <p className="text-lg font-bold">Boating</p>
-      <p className="text-lg">Boating is my way of unwinding and enjoying the serenity of the water.</p>
+      <p className="text-lg">Boating is my way of unwinding and enjoying the serenity of the water.</p> */}
     </div>
     <div>
-      <p className="text-lg font-bold">Cycling</p>
-      <p className="text-lg">Cycling allows me to explore new places and stay fit at the same time.</p>
+     {/*  <p className="text-lg font-bold">Cycling</p>
+      <p className="text-lg">Cycling allows me to explore new places and stay fit at the same time.</p> */}
     </div>
   </div>
 </div>
@@ -57,10 +57,10 @@ function page() {
             </p>
 
             <div className="border-neutral-300 mt-5 dark:border-neutral-700 bg-white dark:bg-[#373737] shadow-md border  w-fit h-8 px-2 rounded-md max-sm:flex-col flex items-center gap-x-1 ">
-              <button className="text-neutral-700 dark:text-white  text-sm font-semibold">
-              {/*   View All */}
-              </button>
-              <FiArrowRight className="text-neutral-500" />
+                {/* <button className="text-neutral-700 dark:text-white  text-sm font-semibold">
+              View All 
+              </button> 
+              <FiArrowRight className="text-neutral-500" />*/}
             </div>
 
             <div className="mt-8">
