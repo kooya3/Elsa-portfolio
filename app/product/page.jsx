@@ -66,7 +66,7 @@ function page() {
           </h1>
           <p className="text-neutral-700 text-base my-7 leading-8 font-InterRe dark:text-[#C0C0C0]">
 
-          Hi, I'm Elsarita Njoki Oulie, and welcome to my dedicated corner on the web! Here, my work as a forklift driver intersects with my passion for technology and cultural heritage. With years of experience navigating warehouse environments with precision and efficiency, My expertise lies in ensuring seamless operations and safety within warehouse environments, where I excel in maneuvering forklifts to optimize workflows. My true passion lies in the fusion of technology and logistics.
+          Hi, I'm Elsarita Njoki Oulie, and welcome to my dedicated corner on the web! Here, my work as a forklift driver intersects with my passion for technology and cultural heritage. With years of experience navigating warehouse environments with precision and efficiency, My expertise lies in ensuring seamless operations and safety within warehouse environments, where I excel in maneuvering forklifts to optimize workflows. My true passion lies in the fusion of technology and logistics. As a proud member of the Kikuyu community, I carry forward
            {/*  
             "Hi, I'm Elyees Tatua, a passionate full-stack and web developer from Nairobi, Kenya. With three years of experience, I excel at building high-quality, efficient, and user-friendly solutions. My GitHub showcases my commitment to coding with over 6,000 contributions! I'm particularly interested in SaaS models and how technology can impact our world. I'm eager to learn and grow, always seeking new opportunities to challenge myself. As a proud Kikuyu, my cultural heritage is important to me, instilling a deep appreciation for community and tradition. Let's connect and explore how my skills can contribute to your team!" 
             
@@ -79,6 +79,8 @@ function page() {
             my true passion lies in the intersection of technology and logistics. I am deeply fascinated by how innovative solutions can optimize workflows and enhance efficiency in the transportation and logistics industry.
 
             As a proud member of the Kikuyu community, I carry forward the values of unity and tradition in all aspects of my work. I believe in the power of community and collaboration to achieve common goals.
+
+            As a proud member of the Kikuyu community, I carry forward the values of unity and tradition, instilling a deep appreciation for community and heritage in all aspects of my work.
 
             I am eager to expand my knowledge and skills further, always seeking new challenges and opportunities to grow. Let's connect and explore how my expertise in forklift operations and my passion for technology can contribute to the success of your team!
             
