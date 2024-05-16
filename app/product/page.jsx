@@ -66,11 +66,10 @@ function page() {
           </h1>
           <p className="text-neutral-700 text-base my-7 leading-8 font-InterRe dark:text-[#C0C0C0]">
 
-          Hi, I'm Elsarita Njoki Oulie, and welcome to my dedicated corner on the web! Here, my work as a forklift driver intersects with my passion for technology and cultural heritage. With years of experience navigating warehouse environments with precision and efficiency, My expertise lies in ensuring seamless operations and safety within warehouse environments, where I excel in maneuvering forklifts to optimize workflows. My true passion lies in the fusion of technology and logistics. As a proud member of the Kikuyu community, I carry forward the values of unity and tradition in all aspects of my work. I believe in the power of community and collaboration to achieve common goals.
+          Hi, I'm Elsarita Njoki Oulie, and welcome to my dedicated corner on the web! Here, my work as a forklift driver intersects with my passion for technology and cultural heritage. With years of experience navigating warehouse environments with precision and efficiency, My expertise lies in ensuring seamless operations and safety within warehouse environments, where I excel in maneuvering forklifts to optimize workflows. My true passion lies in the fusion of technology and logistics. As a proud member of the Kikuyu community, I carry forward the values of unity and tradition in all aspects of my work. I believe in the power of community and collaboration to achieve common goals. Let's connect and explore how my expertise in forklift operations and my passion for technology can contribute to the success of your team!
 
            {/*  
-            " As a proud Kikuyu, my cultural heritage is important to me, instilling a deep appreciation for community and tradition. Let's connect and explore how my skills can contribute to your team!" 
-            
+            "
 
             Greetings from Nairobi, Kenya! With three years behind the wheel, I've honed my skills in maneuvering forklifts to efficiently handle various tasks. Whether it's loading and unloading cargo or navigating tight spaces, I excel in ensuring smooth operations with a keen eye for safety and efficiency.
             While my playground might be the warehouse floor, my passion for precision extends to digital realms as well. My GitHub profile is a testament to my dedication, boasting over 6,000 contributions. I'm particularly intrigued by how technology intersects with logistics, constantly seeking ways to optimize processes and enhance productivity.
