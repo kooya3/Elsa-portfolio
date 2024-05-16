@@ -33,8 +33,8 @@ function page() {
       <p className="text-lg">Boating is my way of unwinding and enjoying the serenity of the water.</p> */}
     </div>
     <div>
-      <p className="text-lg font-bold">Cycling</p>
-      <p className="text-lg">Cycling allows me to explore new places and stay fit at the same time.</p>
+     {/*  <p className="text-lg font-bold">Cycling</p>
+      <p className="text-lg">Cycling allows me to explore new places and stay fit at the same time.</p> */}
     </div>
   </div>
 </div>
