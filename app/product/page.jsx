@@ -89,7 +89,7 @@ function page() {
             <div className="flex items-center gap-x-2 font-InterRe">
               <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
               <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
-                Products
+                Certifications
               </h1>
             </div>
 
