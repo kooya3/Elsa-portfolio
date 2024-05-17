@@ -4,7 +4,7 @@ import Link from "next/link";
 import React from "react";
 import { BsChevronRight } from "react-icons/bs";
 import { FiCopy } from "react-icons/fi";
-import { AiOutlinePlusCircle, AiOutlineDribbble } from "react-icons/ai";
+import { AiOutlinePlusCircle, AiOutlineDribbble, AiOutlineGooglePlus } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { CiLocationArrow1, CiTwitter, CiInstagram } from "react-icons/ci";
 import { motion } from "framer-motion";
@@ -166,18 +166,22 @@ function page() {
               </div>
 
               <div className="flex gap-x-2">
-                <div className="border-neutral-300 bg-white dark:bg-[#373737] dark:border-none shadow-md drop-shadow-md border  w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1 ">
-                  <CiTwitter className="text-neutral-500 dark:text-white" />
+              <a href="https://twitter.com/elsarita6020">
+                  <div className="border-neutral-300 bg-white dark:bg-[#373737] dark:border-none shadow-md drop-shadow-md border w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1">
+                    <CiTwitter className="text-neutral-500 dark:text-white" />
+                  </div>
+                </a>
+                
+                <a href="mailto:elrizah@gmail.com">
+                  <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737]  dark:border-none w-9 h-9 px-2 rounded-full flex justify-center items-center  gap-x-1 ">
+                  <AiOutlineGooglePlus className="text-neutral-500 dark:text-white" />
                 </div>
-                <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737]  dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1 ">
-                  <CiInstagram className="text-neutral-500 dark:text-white" />
-                </div>{" "}
-                <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737]  dark:border-none w-9 h-9 px-2 rounded-full flex justify-center items-center  gap-x-1 ">
-                  <AiOutlineDribbble className="text-neutral-500 dark:text-white" />
-                </div>
-                <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737]  dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1  ">
-                  <FaLinkedinIn className="text-neutral-500 dark:text-white" />
-                </div>
+                </a>       
+                <a href="https://www.linkedin.com/in/elsarita-njoki-oulie-b22b3a291/">
+                  <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737] dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1">
+                    <FaLinkedinIn className="text-neutral-500 dark:text-white" />
+                  </div>
+                </a>
               </div>
             </div>
           </div>
