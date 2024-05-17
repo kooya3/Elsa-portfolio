@@ -227,7 +227,7 @@ function Page() {
               <p className="text-neutral-500">
                 By{""}
                 <span className="hover:underline hover:text-neutral-400 text-neutral-700 dark:text-neutral-300">
-                  kooya3
+                <a href="https://github.com/kooya3">kooya3</a>
                 </span>
               </p>
             </div>
