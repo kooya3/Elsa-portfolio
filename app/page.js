@@ -274,7 +274,11 @@ export default function Home() {
                 
               </div>
             </div>
+
+            
           </div>
+
+          
 
           <div className="bg-[#F6F8FA] dark:bg-[#2C2C2C] p-6  mt-4 rounded-md">
             <div className="text-center">
