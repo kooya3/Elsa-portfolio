@@ -21,10 +21,14 @@ const links = [
     title: "Hobbies",
     subtitle: ["What I Enjoy Doing in My Free Time"],
 <<<<<<< HEAD
+<<<<<<< HEAD
     href: "/rectangle",
 =======
     href: "/hobbies",
 >>>>>>> 25c4733 (chore(update): Working on image update)
+=======
+    href: "/hobbies",
+>>>>>>> d8be6c94fba45840df9b98d8e50c1b389abbcc62
 },
 {
     img: "/img/foot.png",

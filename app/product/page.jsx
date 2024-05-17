@@ -38,6 +38,7 @@ const links = [
 ];
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 const projects = [
   {
     img: "/img/pizza.png",
@@ -56,6 +57,8 @@ const projects = [
     subtitle: "framer template",
   },
 =======
+=======
+>>>>>>> d8be6c94fba45840df9b98d8e50c1b389abbcc62
 const projects = [  {
   img: "/img/wink.png",
   title: "Cisco Certified Network Associate",
@@ -66,7 +69,10 @@ const projects = [  {
   title: "Forklift Certification",
   subtitle: "Toyota Material Handling Norway T1, T4",
 },
+<<<<<<< HEAD
 >>>>>>> 25c4733 (chore(update): Working on image update)
+=======
+>>>>>>> d8be6c94fba45840df9b98d8e50c1b389abbcc62
 ];
 
 function page() {
@@ -90,12 +96,15 @@ function page() {
             Explore My Products
           </h1>
           <p className="text-neutral-700 text-base my-7 leading-8 font-InterRe dark:text-[#C0C0C0]">
+<<<<<<< HEAD
             Discover my portfolio, where purposeful interfaces meet captivating
             design. My work strives to enhance experiences and inspire.
 =======
             Explore My Laurels
           </h1>
           <p className="text-neutral-700 text-base my-7 leading-8 font-InterRe dark:text-[#C0C0C0]">
+=======
+>>>>>>> d8be6c94fba45840df9b98d8e50c1b389abbcc62
 
           Hi, I'm Elsarita Njoki Oulie, and welcome to my dedicated corner on the web! Here, my work as a forklift driver intersects with my passion for technology and cultural heritage. With years of experience navigating warehouse environments with precision and efficiency, My expertise lies in ensuring seamless operations and safety within warehouse environments, where I excel in maneuvering forklifts to optimize workflows. My true passion lies in the fusion of technology and logistics. As a proud member of the Kikuyu community, I carry forward the values of unity and tradition in all aspects of my work. I believe in the power of community and collaboration to achieve common goals. Let's connect and explore how my expertise in forklift operations and my passion for technology can contribute to the success of your team!
 
@@ -112,7 +121,10 @@ function page() {
             I am eager to expand my knowledge and skills further, always seeking new challenges and opportunities to grow. Let's connect and explore how my expertise in forklift operations and my passion for technology can contribute to the success of your team!
             
             */}
+<<<<<<< HEAD
 >>>>>>> 25c4733 (chore(update): Working on image update)
+=======
+>>>>>>> d8be6c94fba45840df9b98d8e50c1b389abbcc62
           </p>
         </div>
 
@@ -122,10 +134,14 @@ function page() {
               <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
               <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
 <<<<<<< HEAD
+<<<<<<< HEAD
                 Products
 =======
                 Certifications
 >>>>>>> 25c4733 (chore(update): Working on image update)
+=======
+                Certifications
+>>>>>>> d8be6c94fba45840df9b98d8e50c1b389abbcc62
               </h1>
             </div>
 
@@ -196,10 +212,14 @@ function page() {
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-x-2 font-InterRe">
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
 =======
                 <div className="w-[6px] h-[6px] rounded-full  bg-[#21b121]" />
 >>>>>>> 25c4733 (chore(update): Working on image update)
+=======
+                <div className="w-[6px] h-[6px] rounded-full  bg-[#21b121]" />
+>>>>>>> d8be6c94fba45840df9b98d8e50c1b389abbcc62
                 <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
                   Follow Me
                 </h1>
