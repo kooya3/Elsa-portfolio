@@ -94,6 +94,22 @@ function page() {
             I hold a Bachelor's degree in Information Technology from Jomo Kenyatta University of Agriculture and Technology. I have a strong background in software, databases, and networks. With my knowledge in IT, I have stayed up-to-date with the latest technologies and industry trends. I actively seek opportunities to expand my skills and I regularly participate in IT conferences and workshops. My dedication to professional development demonstrates my relentless drive to stay current in the ever-evolving field of technology.
            </motion.p>
 
+<<<<<<< HEAD
+=======
+           <div className="p-4  rounded-lg dark:bg-[#373737] bg-white border dark:border-neutral-700/70">
+          <motion.img
+            initial={{ y: 100, opacity: 0 }}
+            animate={{
+              y: 0,
+              opacity: 1,
+              transition: { duration: 0.4, delay: 0.3 },
+            }}
+            className="aspect- object-cover rounded-lg"
+            src="/img/img1.png"
+            alt="forklift"
+          />
+        </div>
+>>>>>>> 25c4733 (chore(update): Working on image update)
           <motion.p
             initial={{ y: 100, opacity: 0 }}
             whileInView={{

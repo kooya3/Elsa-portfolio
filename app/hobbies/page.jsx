@@ -6,6 +6,7 @@ import { AiOutlineDribbble, AiOutlinePlusCircle } from "react-icons/ai";
 import { CiInstagram, CiTwitter } from "react-icons/ci";
 import { FaLinkedinIn } from "react-icons/fa";
 
+<<<<<<< HEAD
 const links = [
 /*   {
     img: "/img/img1.png",
@@ -28,11 +29,15 @@ const links = [
     href: "/simply", 
   }, */
 ];
+=======
+const links = [];
+>>>>>>> 25c4733 (chore(update): Working on image update)
 
 function page() {
   return (
     <div className="bg-white top-24 relative dark:bg-[#212121] shadow-md rounded-xl max-w-xl lg:mx-auto mx-4 lg:max-w-xl max-2xl md:mx-auto sm:mx-auto lg:px-0 ">
       <div className=" lg:p-6 p-2 max-md:p-5 ">
+<<<<<<< HEAD
       <div className="dark:bg-neutral-800 bg-[#F1F4F8] leading-8 rounded-lg p-4 flex flex-col lg:flex-row gap-x-11">
   <div className="lg:border-r-2 lg:pr-8">
     <p className="text-lg font-bold">Let's Meet My Hobbies: 🛠️</p>
@@ -41,10 +46,16 @@ function page() {
       <p className="text-lg">2. Boating</p>
       <p className="text-lg">3. Skiing</p>
       <p className="text-lg">4. Cycling</p> */}
+=======
+      <div className="dark:bg-neutral-800 bg-[#F1F4F8] leading-8 rounded-lg p-4 flex flex-col lg:flex-row gap-x-11 justify-center">
+  <div className="lg:border-r-2 lg:pr-8 ">
+    <p className="text-lg font-bold "> Let's Meet My Hobbies: 🛠️</p>
+>>>>>>> 25c4733 (chore(update): Working on image update)
     </div>
   </div>
   <div>
     <div>
+<<<<<<< HEAD
       <p className="text-lg font-bold">Swimming</p>
       <p className="text-lg"></p>
     </div>
@@ -55,6 +66,26 @@ function page() {
     <div>
       <p className="text-lg font-bold">Cycling</p>
       <p className="text-lg"></p>
+=======
+    <div className="flex justify-between flex-col lg:flex-row m-2">
+      <p className="text-lg">1. Swimming</p>
+      <p className="text-lg">2. Boating</p>
+
+
+      {/* <p className="text-lg font-bold">Swimming</p>
+      <p className="text-lg">I love swimming as it refreshes my mind and keeps me active.</p> */}
+    </div>
+    <div className="flex justify-between  flex-col lg:flex-row m-2">
+      <p className="text-lg">3. Skiing</p>
+      <p className="text-lg">4. Cycling</p>
+     {/*  <p className="text-lg font-bold">Skiing</p>
+      <p className="text-lg font-bold">Boating</p>
+      <p className="text-lg">Boating is my way of unwinding and enjoying the serenity of the water.</p> */}
+    </div>
+    <div>
+     {/*  <p className="text-lg font-bold">Cycling</p>
+      <p className="text-lg">Cycling allows me to explore new places and stay fit at the same time.</p> */}
+>>>>>>> 25c4733 (chore(update): Working on image update)
     </div>
   </div>
 </div>
@@ -73,6 +104,7 @@ function page() {
           <div>
             <h1 className="text-4xl font-InterBo my-5">Hobbies</h1>
             <p className="text-lg dark:text-neutral-300  text-neutral-900">
+<<<<<<< HEAD
               An innovative platform that empowers businesses to efficiently
               manage their workforce, delivering a seamless user experience
               while distinguishing itself from competitors.
@@ -83,15 +115,30 @@ function page() {
               {/*   View All */}
               </button>
               <FiArrowRight className="text-neutral-500" />
+=======
+              Exploring hobbies is as essential as exploring new technologies. Here's a glimpse of what I love to do in my free time.
+            </p>
+
+            <div className="border-neutral-300 mt-5 dark:border-neutral-700 bg-white dark:bg-[#373737] shadow-md border  w-fit h-8 px-2 rounded-md max-sm:flex-col flex items-center gap-x-1 ">
+                {/* <button className="text-neutral-700 dark:text-white  text-sm font-semibold">
+              View All 
+              </button> 
+              <FiArrowRight className="text-neutral-500" />*/}
+>>>>>>> 25c4733 (chore(update): Working on image update)
             </div>
 
             <div className="mt-8">
               <img
+<<<<<<< HEAD
                 className="aspect-square rounded-lg"
+=======
+                className="aspect-auto rounded-lg"
+>>>>>>> 25c4733 (chore(update): Working on image update)
                 src="/img/ski.jpeg"
                 alt=""
               />
               <p className="my-5 text-lg dark:text-neutral-300  text-neutral-900">
+<<<<<<< HEAD
                 A business owner enlisted my expertise as a product designer to
                 develop a website that would boost their brand awareness and
                 conversions. Crafting a modern, professional website, my
@@ -101,11 +148,19 @@ function page() {
 
               <img
                 className="aspect-square rounded-lg"
+=======
+                Skiing allows me to embrace the thrill of the mountains and connect with nature in its purest form.
+              </p>
+
+              <img
+                className="aspect-auto rounded-lg"
+>>>>>>> 25c4733 (chore(update): Working on image update)
                 src="/img/bike.jpeg"
                 alt=""
               />
 
               <h3 className="text-lg my-6 font-InterBo">
+<<<<<<< HEAD
                 The Problems to Solve
               </h3>
               <p className="text-lg dark:text-neutral-300  text-neutral-900">
@@ -121,10 +176,21 @@ function page() {
 
               <img
                 className="aspect-square rounded-lg my-7"
+=======
+                
+              </h3>
+              <p className="text-lg dark:text-neutral-300  text-neutral-900">
+                Cycling through challenging terrains not only tests my physical endurance but also rejuvenates my spirit.
+              </p>
+
+              <img
+                className="aspect-auto rounded-lg my-7"
+>>>>>>> 25c4733 (chore(update): Working on image update)
                 src="/img/boat1.jpeg"
                 alt=""
               />
 
+<<<<<<< HEAD
               <h3 className="text-lg my-6 font-InterBo">Our Solution</h3>
               <p className="text-lg dark:text-neutral-300  text-neutral-900">
                 Through thoughtful product design, we ensured that Rectangle's
@@ -135,6 +201,13 @@ function page() {
                 Rectangle's products but also effectively conveyed their
                 environmental mission, fostering authentic engagement with
                 visitors.
+=======
+              <h3 className="text-lg my-6 font-InterBo">
+
+              </h3>
+              <p className="text-lg dark:text-neutral-300  text-neutral-900">
+                Boating offers me moments of tranquility and allows me to escape the hustle and bustle of everyday life.
+>>>>>>> 25c4733 (chore(update): Working on image update)
               </p>
             </div>
           </div>
@@ -144,7 +217,11 @@ function page() {
           <div className="bg-[#F6F8FA] mt-11 dark:bg-[#2C2C2C] p-6 max-md:p-3 rounded-xl">
             <div className="flex items-center justify-between mt-4">
               <div className="flex items-center gap-x-2 font-InterRe">
+<<<<<<< HEAD
                 <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
+=======
+                <div className="w-[6px] h-[6px] rounded-full  bg-[#1f9733]" />
+>>>>>>> 25c4733 (chore(update): Working on image update)
                 <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
                   Projects
                 </h1>
@@ -270,3 +347,7 @@ function page() {
 }
 
 export default page;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 25c4733 (chore(update): Working on image update)

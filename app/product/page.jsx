@@ -4,7 +4,11 @@ import Link from "next/link";
 import React from "react";
 import { BsChevronRight } from "react-icons/bs";
 import { FiCopy } from "react-icons/fi";
+<<<<<<< HEAD
 import { AiOutlinePlusCircle, AiOutlineDribbble } from "react-icons/ai";
+=======
+import { AiOutlinePlusCircle, AiOutlineDribbble, AiOutlineGoogle } from "react-icons/ai";
+>>>>>>> 25c4733 (chore(update): Working on image update)
 import { FaLinkedinIn } from "react-icons/fa";
 import { CiLocationArrow1, CiTwitter, CiInstagram } from "react-icons/ci";
 import { motion } from "framer-motion";
@@ -33,6 +37,7 @@ const links = [
   },
 ];
 
+<<<<<<< HEAD
 const projects = [
   {
     img: "/img/pizza.png",
@@ -50,6 +55,18 @@ const projects = [
     title: "Subtle Folio",
     subtitle: "framer template",
   },
+=======
+const projects = [  {
+  img: "/img/wink.png",
+  title: "Cisco Certified Network Associate",
+  subtitle: "(AFRALTI): ID 08653Crede",
+},
+{
+  img: "/img/foot.png",
+  title: "Forklift Certification",
+  subtitle: "Toyota Material Handling Norway T1, T4",
+},
+>>>>>>> 25c4733 (chore(update): Working on image update)
 ];
 
 function page() {
@@ -69,11 +86,33 @@ function page() {
 
         <div className=" mt-7 md:px-6 p-2 ">
           <h1 className="text-4xl font-InterBo mt-7 my-3 dark:text-white text-neutral-800">
+<<<<<<< HEAD
             Explore My Products
           </h1>
           <p className="text-neutral-700 text-base my-7 leading-8 font-InterRe dark:text-[#C0C0C0]">
             Discover my portfolio, where purposeful interfaces meet captivating
             design. My work strives to enhance experiences and inspire.
+=======
+            Explore My Laurels
+          </h1>
+          <p className="text-neutral-700 text-base my-7 leading-8 font-InterRe dark:text-[#C0C0C0]">
+
+          Hi, I'm Elsarita Njoki Oulie, and welcome to my dedicated corner on the web! Here, my work as a forklift driver intersects with my passion for technology and cultural heritage. With years of experience navigating warehouse environments with precision and efficiency, My expertise lies in ensuring seamless operations and safety within warehouse environments, where I excel in maneuvering forklifts to optimize workflows. My true passion lies in the fusion of technology and logistics. As a proud member of the Kikuyu community, I carry forward the values of unity and tradition in all aspects of my work. I believe in the power of community and collaboration to achieve common goals. Let's connect and explore how my expertise in forklift operations and my passion for technology can contribute to the success of your team!
+
+           {/*
+            As a forklift driver, I understand the importance of teamwork and reliability. My cultural roots in the Kikuyu community instill in me a deep sense of responsibility and respect for collaboration. I believe in the power of technology to transform our world, and I'm eager to leverage my skills to drive positive change.
+            Let's connect and explore how my hands-on experience and technical expertise can elevate your team's operations!
+
+            my true passion lies in the intersection of technology and logistics. I am deeply fascinated by how innovative solutions can optimize workflows and enhance efficiency in the transportation and logistics industry.
+
+            As a proud member of the Kikuyu community, I carry forward the values of unity and tradition in all aspects of my work. I believe in the power of community and collaboration to achieve common goals.
+
+            As a proud member of the Kikuyu community, I carry forward the values of unity and tradition, instilling a deep appreciation for community and heritage in all aspects of my work.
+
+            I am eager to expand my knowledge and skills further, always seeking new challenges and opportunities to grow. Let's connect and explore how my expertise in forklift operations and my passion for technology can contribute to the success of your team!
+            
+            */}
+>>>>>>> 25c4733 (chore(update): Working on image update)
           </p>
         </div>
 
@@ -82,7 +121,11 @@ function page() {
             <div className="flex items-center gap-x-2 font-InterRe">
               <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
               <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
+<<<<<<< HEAD
                 Products
+=======
+                Certifications
+>>>>>>> 25c4733 (chore(update): Working on image update)
               </h1>
             </div>
 
@@ -152,7 +195,11 @@ function page() {
           <div className="bg-[#F6F8FA] p-6 dark:bg-[#2C2C2C]  mt-14 rounded-md">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-x-2 font-InterRe">
+<<<<<<< HEAD
                 <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
+=======
+                <div className="w-[6px] h-[6px] rounded-full  bg-[#21b121]" />
+>>>>>>> 25c4733 (chore(update): Working on image update)
                 <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
                   Follow Me
                 </h1>
@@ -166,7 +213,11 @@ function page() {
                   <CiInstagram className="text-neutral-500 dark:text-white" />
                 </div>{" "}
                 <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737]  dark:border-none w-9 h-9 px-2 rounded-full flex justify-center items-center  gap-x-1 ">
+<<<<<<< HEAD
                   <AiOutlineDribbble className="text-neutral-500 dark:text-white" />
+=======
+                  <AiOutlineGoogle className="text-neutral-500 dark:text-white" />
+>>>>>>> 25c4733 (chore(update): Working on image update)
                 </div>
                 <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737]  dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1  ">
                   <FaLinkedinIn className="text-neutral-500 dark:text-white" />
@@ -178,12 +229,20 @@ function page() {
           <div className="bg-[#F6F8FA] dark:bg-[#2C2C2C] p-6  mt-4 rounded-md">
             <div className="text-center">
               <span className="text-neutral-700 dark:text-neutral-400">
+<<<<<<< HEAD
                 © 2023 Joscript Folio – Jo free Templates
+=======
+                © 2024 Elsarita – elrizah@gmail.com
+>>>>>>> 25c4733 (chore(update): Working on image update)
               </span>
               <p className="text-neutral-500">
                 By{" "}
                 <span className="hover:underline  hover:text-neutral-400 text-neutral-700 dark:text-neutral-300">
+<<<<<<< HEAD
                   Joscript
+=======
+                  kooya3
+>>>>>>> 25c4733 (chore(update): Working on image update)
                 </span>
               </p>
             </div>
