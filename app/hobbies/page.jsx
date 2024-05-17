@@ -2,7 +2,7 @@ import Link from "next/link";
 import React from "react";
 import { FiArrowRight, FiCopy } from "react-icons/fi";
 import { BsChevronRight } from "react-icons/bs";
-import { AiOutlineDribbble, AiOutlinePlusCircle } from "react-icons/ai";
+import { AiOutlineDribbble, AiOutlineGooglePlus, AiOutlinePlusCircle } from "react-icons/ai";
 import { CiInstagram, CiTwitter } from "react-icons/ci";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -53,7 +53,7 @@ function page() {
           </div>
 
           <div>
-            <h1 className="text-4xl font-InterBo my-5">Hobbies</h1>
+            <h1 className="text-4xl font-InterBo my-5">My Hobbies</h1>
             <p className="text-lg dark:text-neutral-300  text-neutral-900">
               Exploring hobbies is as essential as exploring new technologies. Here's a glimpse of what I love to do in my free time.
             </p>
@@ -191,25 +191,29 @@ function page() {
           <div className="bg-[#F6F8FA] p-6 dark:bg-[#2C2C2C]  mt-14 rounded-md">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-x-2 font-InterRe">
-                <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
+                <div className="w-[6px] h-[6px] rounded-full  bg-[#21b121]" />
                 <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
                   Follow Me
                 </h1>
               </div>
 
               <div className="flex gap-x-2">
-                <div className="border-neutral-300 bg-white dark:bg-[#373737] dark:border-none shadow-md drop-shadow-md border  w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1 ">
-                  <CiTwitter className="text-neutral-500 dark:text-white" />
+              <a href="https://twitter.com/elsarita6020">
+                  <div className="border-neutral-300 bg-white dark:bg-[#373737] dark:border-none shadow-md drop-shadow-md border w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1">
+                    <CiTwitter className="text-neutral-500 dark:text-white" />
+                  </div>
+                </a>
+                
+                <a href="mailto:elrizah@gmail.com">
+                  <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737]  dark:border-none w-9 h-9 px-2 rounded-full flex justify-center items-center  gap-x-1 ">
+                  <AiOutlineGooglePlus className="text-neutral-500 dark:text-white" />
                 </div>
-                <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737]  dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1 ">
-                  <CiInstagram className="text-neutral-500 dark:text-white" />
-                </div>{" "}
-                <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737]  dark:border-none w-9 h-9 px-2 rounded-full flex justify-center items-center  gap-x-1 ">
-                  <AiOutlineDribbble className="text-neutral-500 dark:text-white" />
-                </div>
-                <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737]  dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1  ">
-                  <FaLinkedinIn className="text-neutral-500 dark:text-white" />
-                </div>
+                </a>       
+                <a href="https://www.linkedin.com/in/elsarita-njoki-oulie-b22b3a291/">
+                  <div className="border-neutral-300 bg-white shadow-md drop-shadow-md border dark:bg-[#373737] dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1">
+                    <FaLinkedinIn className="text-neutral-500 dark:text-white" />
+                  </div>
+                </a>
               </div>
             </div>
           </div>
