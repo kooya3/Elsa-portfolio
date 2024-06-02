@@ -9,7 +9,7 @@ npm run dev
 pnpm
 ```
 
- ) with your browser to see the result.
+ browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
