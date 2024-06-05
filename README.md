@@ -10,8 +10,7 @@ pnpm
 ```
 
   
-
-//nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+extjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
