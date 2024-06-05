@@ -7,7 +7,8 @@ npm run dev
 
 # or
 pnpm
-``` Inter, a custom Google Font.
+```
+  a custom Google Font.
 
 ## Learn More
 
