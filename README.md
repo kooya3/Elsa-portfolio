@@ -8,7 +8,7 @@ npm run dev
 # or
 pnpm
 ```
-ont-optimization) to automatically optimize and load Inter, a custom Google Font.
+-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
