@@ -8,7 +8,7 @@ npm run dev
 # or
 pnpm
 ```
-custom Google Font.
+Google Font.
 
 ## Learn More
 
