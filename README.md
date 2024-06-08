@@ -9,7 +9,7 @@ npm run dev
 pnpm
 ```
 
-## Learn More
+Learn More
 
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
