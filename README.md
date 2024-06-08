@@ -8,7 +8,6 @@ npm run dev
 # or
 pnpm
 ```
- Font.
 
 ## Learn More
 
