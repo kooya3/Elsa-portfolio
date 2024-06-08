@@ -11,7 +11,7 @@ pnpm
 
 
 
- - learn about Next.js features and API.
+about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
