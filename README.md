@@ -12,7 +12,7 @@ pnpm
 
 
 
-interactive Next.js tutorial.
+Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
