@@ -9,7 +9,7 @@ npm run dev
 pnpm
 ```
 
-ository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+ps://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
