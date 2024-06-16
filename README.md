@@ -9,7 +9,6 @@ npm run dev
 pnpm
 ```
 
-ps://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
